@@ -37,7 +37,7 @@ Generating mail...
  │                                              │ 
  ┣─ Contact ───────────────────────┓            │ 
  │ ┏───────────────────────────────┛            │ 
- │ ┣─── Website [<b><a href="www.PRIM4T.art">www.PRIM4T.art</a></b>]                │ 
+ │ ┣─── Website [<b><a href="https://prim4t.art/">www.PRIM4T.art</a></b>]                │ 
  │ ┣────── Mail [<b><a href="mailto:banana@prim4t.art">banana@prim4t.art</a></b>]             │ 
  │ ┗──── Book a [<b><a href="https://prim4t.github.io/prim4t_outreach.nfo/meeting">Meeting</a></b>]                       │ 
  ┗───┓                                          │ 
